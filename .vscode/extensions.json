@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "github.vscode-github-actions",
+    "jacano.vscode-pnpm",
+    "vue.volar"
+  ]
+}
